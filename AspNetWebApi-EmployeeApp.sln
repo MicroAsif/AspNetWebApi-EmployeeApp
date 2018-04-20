@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebApi-EmployeeApp", "AspNetWebApi-EmployeeApp\AspNetWebApi-EmployeeApp.csproj", "{2702AD35-46E3-4086-9400-ABCA527F80E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetWebApi-EmployeeApp.Client", "AspNetWebApi-EmployeeApp.Client\AspNetWebApi-EmployeeApp.Client.csproj", "{48AFC194-A574-461D-906F-68753545BF23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2702AD35-46E3-4086-9400-ABCA527F80E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2702AD35-46E3-4086-9400-ABCA527F80E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2702AD35-46E3-4086-9400-ABCA527F80E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48AFC194-A574-461D-906F-68753545BF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AFC194-A574-461D-906F-68753545BF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AFC194-A574-461D-906F-68753545BF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AFC194-A574-461D-906F-68753545BF23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
