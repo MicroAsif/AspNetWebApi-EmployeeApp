@@ -14,6 +14,8 @@ namespace AspNetWebApi_EmployeeApp.AppDbContext
         }
         public DbSet<Employee> Employee { get; set; }
         public DbSet<Department> Depertment { get; set; }
+        public DbSet<Category> categories { get; set; }
+        public DbSet<Product> Products { get; set; }
 
     }
 }
